@@ -3,4 +3,5 @@
 an image that is a file in the directory.
 
 an image that is located on the web (not a file in the directory). If you right-click on an image in a web browser there is an option in the popup to get the address/URL to the image. 
+
 ![alt text](https://avatars1.githubusercontent.com/u/8114816?s=460&v=4)
