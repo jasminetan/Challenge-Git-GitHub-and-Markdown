@@ -5,7 +5,7 @@
 
 [a link to an external web site.](https://www.google.com)
 
-[a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md.](../Challenge-Git-GitHub-and-Markdown/secondMarkdown.md)
+[a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md.](Challenge-Git-GitHub-and-Markdown/secondMarkdown.md)
 
 an image that is a file in the directory.
 
